@@ -1,0 +1,4 @@
+@aws-crypto
+node_modules
+.ds_store
+.env
